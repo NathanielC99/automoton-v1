@@ -11,4 +11,8 @@ It is discussed in chapter 7.
 
 *Answers*
 27)It shows the same pattern emerges.
-28)
+28)The fill method brings thing back to the first state.
+29)Yes different patterns show up.
+31)It needs to be a nextState because it needs to be another instince of it.
+If you change it to state it doesn't work.
+32)
